@@ -1,10 +1,11 @@
 # Predicting-Abnormality-in-Lower-Back
 
 ## Repository guide:
-* Data => S3755214_Data.csv
+* Train Data => train_spine.csv
+* Test Data => test_spine.csv
 * Analysis and Reporting => Predicting Abnormality in Lower Back.docx
 * Code => code.R
-* Test runs => Run 1 to 5.rData
+* Test runs => run-1 to 5.RData
 
 ## Introduction
 
