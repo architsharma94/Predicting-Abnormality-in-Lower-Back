@@ -5,6 +5,7 @@
 * Test Data => test_spine.csv
 * Analysis and Reporting => Predicting Abnormality in Lower Back.docx
 * Code => code.R
+* Supporting Script => DBDA2E-utilities.R
 * Test runs => run-1 to 5.RData
 
 ## Introduction
